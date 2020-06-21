@@ -58,9 +58,9 @@ logo = """ -----------------------------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mSHAMXAFRA
 
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mInstagram \033[1;93m: \033[1;ITZ bajwa
+\033[1;96mFacebook  \033[1;93m: \033[1; SHAMxAFRA
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ITZBAJWA/Shamxafra
 \033[1;91m======================================="""
 
 def tik():
